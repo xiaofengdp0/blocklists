@@ -1905,7 +1905,6 @@
       "pack": ["liteprivacy", "recommended"],
       "level": [0, 0]
     }
-    json
     {
       "vname": "AdAway Default Blocklist",
       "group": "Privacy",
@@ -1915,7 +1914,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "Hululu AdGuard Rule",
       "group": "Privacy",
@@ -1925,7 +1923,6 @@
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
     }
-    json
     {
       "vname": "EasyList",
       "group": "Privacy",
@@ -1935,7 +1932,6 @@
       "pack": ["liteprivacy", "recommended"],
       "level": [0, 0]
     }
-    json
     {
       "vname": "EasyList China",
       "group": "Privacy",
@@ -1945,7 +1941,6 @@
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
     }
-    json
     {
       "vname": "Anti-AD AdGuard",
       "group": "Privacy",
@@ -1955,7 +1950,6 @@
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
     }
-    json
     {
       "vname": "Adblock Auto Rules",
       "group": "Privacy",
@@ -1965,7 +1959,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "10007 Auto All Rules",
       "group": "Privacy",
@@ -1975,7 +1968,6 @@
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
     }
-    json
     {
       "vname": "XBrowse Core CN Rules",
       "group": "Privacy",
@@ -1985,7 +1977,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "AWAvenue Ads Rule",
       "group": "Privacy",
@@ -1995,7 +1986,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "ABP Merge",
       "group": "Privacy",
@@ -2005,7 +1995,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Hacamer AD Rules",
       "group": "Privacy",
@@ -2015,7 +2004,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "GOODBYEADS DNS Rules",
       "group": "Privacy",
@@ -2025,7 +2013,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "Fqnovel FQ2 Rules",
       "group": "Privacy",
@@ -2035,7 +2022,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "RSSV Black API",
       "group": "Privacy",
@@ -2045,7 +2031,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "DD-AD Rules",
       "group": "Privacy",
@@ -2055,7 +2040,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "BanAD Jiekou",
       "group": "Privacy",
@@ -2065,7 +2049,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "QY Ads Black",
       "group": "Privacy",
@@ -2075,7 +2058,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "10007 Auto ADB",
       "group": "Privacy",
@@ -2085,7 +2067,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Fqnovel FXXK Ads",
       "group": "Privacy",
@@ -2095,7 +2076,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "TT DNS Reject List",
       "group": "Privacy",
@@ -2105,7 +2085,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "HG1 Rules",
       "group": "Privacy",
@@ -2115,7 +2094,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "BanAD Jiekou Proxy",
       "group": "Privacy",
@@ -2125,7 +2103,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "GOODBYEADS Adblock Rules",
       "group": "Privacy",
@@ -2135,7 +2112,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Adblock DNS Rules",
       "group": "Privacy",
@@ -2145,7 +2121,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "Adblock DNS Lite",
       "group": "Privacy",
@@ -2155,7 +2130,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "AdGuard Mobile Filter",
       "group": "Privacy",
@@ -2165,7 +2139,6 @@
       "pack": ["recommended"],
       "level": [0]
     }
-    json
     {
       "vname": "AdGuard Base Filter",
       "group": "Privacy",
@@ -2175,7 +2148,6 @@
       "pack": ["liteprivacy", "recommended"],
       "level": [0, 0]
     }
-    json
     {
       "vname": "Anti-AD EasyList",
       "group": "Privacy",
@@ -2185,7 +2157,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "Xiaofeng Rule Dedup 1",
       "group": "Privacy",
@@ -2195,7 +2166,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Xiaofeng Rule Dedup 2",
       "group": "Privacy",
@@ -2205,7 +2175,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Xiaofeng Rule Dedup 3",
       "group": "Privacy",
@@ -2215,7 +2184,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Xiaofeng Rule Dedup 4",
       "group": "Privacy",
@@ -2225,7 +2193,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Xndeye EasyList",
       "group": "Privacy",
@@ -2235,7 +2202,6 @@
       "pack": ["recommended"],
       "level": [0]
     }
-    json
     {
       "vname": "Menghuibanxian Black",
       "group": "Privacy",
@@ -2245,7 +2211,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "Dangchu Black",
       "group": "Privacy",
@@ -2255,7 +2220,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "QY Ads Black Main",
       "group": "Privacy",
@@ -2265,7 +2229,6 @@
       "pack": ["liteprivacy"],
       "level": [0]
     }
-    json
     {
       "vname": "SM Ad FuckU Hosts",
       "group": "Privacy",
@@ -2275,7 +2238,6 @@
       "pack": ["aggressive"],
       "level": [1]
     }
-    json
     {
       "vname": "666 Rules",
       "group": "Privacy",
