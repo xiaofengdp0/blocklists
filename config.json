@@ -1886,7 +1886,7 @@
         "https://raw.githubusercontent.com/tim-hub/tiny-cn-blocklist-replenish/master/others.txt"],
       "pack": ["liteprivacy", "gambling"],
       "level": [0, 1]
-    }
+    },
     {
       "vname": "AdGuard DNS Filter",
       "group": "Privacy",
@@ -1895,7 +1895,7 @@
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
       "pack": ["liteprivacy", "recommended"],
       "level": [0, 0]
-    }
+    },
     {
       "vname": "AdGuard DNS Filter",
       "group": "Privacy",
@@ -1904,7 +1904,7 @@
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt",
       "pack": ["liteprivacy", "recommended"],
       "level": [0, 0]
-    }
+    },
     {
       "vname": "AdAway Default Blocklist",
       "group": "Privacy",
@@ -1913,7 +1913,7 @@
       "url": "https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "Hululu AdGuard Rule",
       "group": "Privacy",
@@ -1922,7 +1922,7 @@
       "url": "https://raw.githubusercontent.com/hululu1068/AdGuard-Rule/main/rule/adgh.txt",
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
-    }
+    },
     {
       "vname": "EasyList",
       "group": "Privacy",
@@ -1931,7 +1931,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylist.txt",
       "pack": ["liteprivacy", "recommended"],
       "level": [0, 0]
-    }
+    },
     {
       "vname": "EasyList China",
       "group": "Privacy",
@@ -1940,7 +1940,7 @@
       "url": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
-    }
+    },
     {
       "vname": "Anti-AD AdGuard",
       "group": "Privacy",
@@ -1949,7 +1949,7 @@
       "url": "https://anti-ad.net/adguard.txt",
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
-    }
+    },
     {
       "vname": "Adblock Auto Rules",
       "group": "Privacy",
@@ -1958,7 +1958,7 @@
       "url": "https://raw.gitmirror.com/lingeringsound/adblock_auto/main/Rules/adblock_auto.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "10007 Auto All Rules",
       "group": "Privacy",
@@ -1967,7 +1967,7 @@
       "url": "https://raw.githubusercontent.com/lingeringsound/10007_auto/master/all",
       "pack": ["liteprivacy", "aggressive"],
       "level": [0, 1]
-    }
+    },
     {
       "vname": "XBrowse Core CN Rules",
       "group": "Privacy",
@@ -1976,7 +1976,7 @@
       "url": "https://cdn.jsdelivr.net/gh/examplecode/ad-rules-for-xbrowser@master/core-rule-cn.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "AWAvenue Ads Rule",
       "group": "Privacy",
@@ -1985,7 +1985,7 @@
       "url": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "ABP Merge",
       "group": "Privacy",
@@ -1994,7 +1994,7 @@
       "url": "https://hub.gitmirror.com/raw.githubusercontent.com/damengzhu/abpmerge/main/abpmerge.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Hacamer AD Rules",
       "group": "Privacy",
@@ -2003,7 +2003,7 @@
       "url": "https://bitbucket.org/hacamer/adrules/raw/main/rules/jiekouAD.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "GOODBYEADS DNS Rules",
       "group": "Privacy",
@@ -2012,7 +2012,7 @@
       "url": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/dns.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "Fqnovel FQ2 Rules",
       "group": "Privacy",
@@ -2021,7 +2021,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/changzhaoCZ/fqnovel-adrules/refs/heads/main/fq2.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "RSSV Black API",
       "group": "Privacy",
@@ -2030,7 +2030,7 @@
       "url": "http://rssv.cn/adguard/api.php?type=black",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "DD-AD Rules",
       "group": "Privacy",
@@ -2039,7 +2039,7 @@
       "url": "https://raw.githubusercontent.com/afwfv/DD-AD/main/rule/DD-AD.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "BanAD Jiekou",
       "group": "Privacy",
@@ -2048,7 +2048,7 @@
       "url": "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "QY Ads Black",
       "group": "Privacy",
@@ -2057,7 +2057,7 @@
       "url": "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/refs/heads/main/black.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "10007 Auto ADB",
       "group": "Privacy",
@@ -2066,7 +2066,7 @@
       "url": "https://hub.gitmirror.com/raw.githubusercontent.com/lingeringsound/10007_auto/master/adb.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Fqnovel FXXK Ads",
       "group": "Privacy",
@@ -2075,7 +2075,7 @@
       "url": "https://gh-proxy.com/raw.githubusercontent.com/changzhaoCZ/fqnovel-adrules/refs/heads/main/fqnovel-fxxk_ads",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "TT DNS Reject List",
       "group": "Privacy",
@@ -2084,7 +2084,7 @@
       "url": "https://raw.gitmirror.com/TTDNS/Cat/main/TT%E6%8B%92%E7%BB%9D%E5%88%97%E8%A1%A8%E6%B8%85%E5%8D%95%20(%E6%9B%B4%E6%96%B0%E4%B8%AD).txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "HG1 Rules",
       "group": "Privacy",
@@ -2093,7 +2093,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/2771936993/HG/main/hg1.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "BanAD Jiekou Proxy",
       "group": "Privacy",
@@ -2102,7 +2102,7 @@
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "GOODBYEADS Adblock Rules",
       "group": "Privacy",
@@ -2111,7 +2111,7 @@
       "url": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Adblock DNS Rules",
       "group": "Privacy",
@@ -2120,7 +2120,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "Adblock DNS Lite",
       "group": "Privacy",
@@ -2129,7 +2129,7 @@
       "url": "https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "AdGuard Mobile Filter",
       "group": "Privacy",
@@ -2138,7 +2138,7 @@
       "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/refs/heads/master/filters/filter_11_Mobile/filter.txt",
       "pack": ["recommended"],
       "level": [0]
-    }
+    },
     {
       "vname": "AdGuard Base Filter",
       "group": "Privacy",
@@ -2147,7 +2147,7 @@
       "url": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/refs/heads/master/filters/filter_2_Base/filter.txt",
       "pack": ["liteprivacy", "recommended"],
       "level": [0, 0]
-    }
+    },
     {
       "vname": "Anti-AD EasyList",
       "group": "Privacy",
@@ -2156,7 +2156,7 @@
       "url": "https://anti-ad.net/easylist.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "Xiaofeng Rule Dedup 1",
       "group": "Privacy",
@@ -2165,7 +2165,7 @@
       "url": "https://raw.githubusercontent.com/xiaofengdp0/AdGuardHome/refs/heads/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D%E5%A4%8D_20250928_114059_1.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Xiaofeng Rule Dedup 2",
       "group": "Privacy",
@@ -2174,7 +2174,7 @@
       "url": "https://raw.githubusercontent.com/xiaofengdp0/AdGuardHome/refs/heads/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D%E5%A4%8D_20250928_114059_2.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Xiaofeng Rule Dedup 3",
       "group": "Privacy",
@@ -2183,7 +2183,7 @@
       "url": "https://raw.githubusercontent.com/xiaofengdp0/AdGuardHome/refs/heads/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D%E5%A4%8D_20250928_114059_3.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Xiaofeng Rule Dedup 4",
       "group": "Privacy",
@@ -2192,7 +2192,7 @@
       "url": "https://raw.githubusercontent.com/xiaofengdp0/AdGuardHome/refs/heads/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D/%E8%A7%84%E5%88%99%E5%8E%BB%E9%87%8D%E5%A4%8D_20250928_114059_4.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Xndeye EasyList",
       "group": "Privacy",
@@ -2201,7 +2201,7 @@
       "url": "https://raw.githubusercontent.com/xndeye/adblock_list/refs/heads/release/easylist.txt",
       "pack": ["recommended"],
       "level": [0]
-    }
+    },
     {
       "vname": "Menghuibanxian Black",
       "group": "Privacy",
@@ -2210,7 +2210,7 @@
       "url": "https://raw.githubusercontent.com/Menghuibanxian/AdguardHome/refs/heads/main/Black.txt",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "Dangchu Black",
       "group": "Privacy",
@@ -2219,7 +2219,7 @@
       "url": "https://raw.githubusercontent.com/qq5460168/dangchu/main/black.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "QY Ads Black Main",
       "group": "Privacy",
@@ -2228,7 +2228,7 @@
       "url": "https://raw.githubusercontent.com/790953214/qy-Ads-Rule/main/black.txt",
       "pack": ["liteprivacy"],
       "level": [0]
-    }
+    },
     {
       "vname": "SM Ad FuckU Hosts",
       "group": "Privacy",
@@ -2237,7 +2237,7 @@
       "url": "https://raw.githubusercontent.com/2Gardon/SM-Ad-FuckU-hosts/master/SMAdHosts",
       "pack": ["aggressive"],
       "level": [1]
-    }
+    },
     {
       "vname": "666 Rules",
       "group": "Privacy",
